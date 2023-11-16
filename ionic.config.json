@@ -1,0 +1,8 @@
+{
+  "name": "Museo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "4decb536"
+}
